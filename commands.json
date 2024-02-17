@@ -45,6 +45,7 @@
     "clear A3",
     "clear A4",
     "clear A5",
-    "flag A2"
+    "flag A2",
+    "end"
   ]
 }
